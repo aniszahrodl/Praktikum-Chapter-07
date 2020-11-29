@@ -5,5 +5,5 @@ try:
         sum = sum + int(data)
     print(sum)
 except ValueError:
-    print('terdapat data yang tidak valid')
+    print('terdapat data yang bukan integrer')
 
